@@ -1,4 +1,5 @@
-# DataSciencePracticeHub
+# Data Science Practice Hub
+### Portfolio Repository
 A collection of (not only) Jupyter Notebooks covering a wide range of topics, including machine learning, data exploration, numerical methods, and deep learning.  Hands-on exercises, tutorials, and projects designed to enhance skills and understanding of key concepts in data science. Whether you're a fellow learner or an experienced practitioner, I hope you find these resources valuable in your own data science endeavors.
 
 ## Repository Structure
