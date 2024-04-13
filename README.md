@@ -13,6 +13,6 @@ The repository is organized into the following directories, each focusing on a s
 
 4. **Deep Learning**: Dive into the exciting field of deep learning. Explore neural networks, convolutional networks, recurrent networks, and other advanced architectures through tutorials and hands-on projects.
 
-Each directory contains a variety of Jupyter Notebooks, tutorials, and mini-projects focusing on the respective topic. Feel free to explore, experiment, and contribute to this repository.
+Each directory contains a variety of Jupyter Notebooks, tutorials, and mini-projects focusing on the respective topic.
 
 
