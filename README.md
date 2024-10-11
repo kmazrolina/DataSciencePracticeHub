@@ -6,13 +6,13 @@ A collection of (not only) Jupyter Notebooks covering a wide range of topics, in
 
 The repository is organized into the following directories, each focusing on a specific topic:
 
-1. **Machine Learning**: Explore machine learning algorithms, techniques, and applications. Includes tutorials, exercises, and projects to help you understand and implement machine learning models.
+1. **Machine Learning**: Exploring machine learning algorithms, techniques, and applications. Includes tutorials, exercises, and projects implementing machine learning models.
 
-2. **Data Exploration**: Delve into the world of data exploration and analysis. Learn how to preprocess, visualize, and gain insights from datasets using popular libraries such as Pandas and Matplotlib.
+2. **Data Exploration**: Preprocessing, visualize=ation, and gaining insights from datasets using popular libraries such as Pandas and Matplotlib.
 
-3. **Numerical Methods**: Learn about numerical methods and computational techniques commonly used in data science. From linear algebra to optimization algorithms, discover practical implementations and examples.
+3. **Numerical Methods**: Computational techniques used in data science. From linear algebra to optimization algorithms, practical implementations and examples.
 
-4. **Deep Learning**: Dive into the exciting field of deep learning. Explore neural networks, convolutional networks, recurrent networks, and other advanced architectures through tutorials and hands-on projects.
+4. **Neural Netros**: Dive into the field of NN and deep learning. Exploreing neural networks, convolutional networks, recurrent networks, and other advanced architectures through tutorials and hands-on projects.
 
 Each directory contains a variety of Jupyter Notebooks, tutorials, and / or mini-projects focusing on the respective topic.
 
